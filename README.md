@@ -23,6 +23,27 @@ I'm an aspiring junior developer with a passion for creating intuitive and dynam
 
 #
 
+### Top 3 Projects
+
+### POSTMAG - Blog Site with Prismic CMS
+A minimalistic blogging platform that utilizes Prismic CMS for content management and integration. Designed with a minimalist aesthetic to enhance content readability and user engagement.
+
+- **Technologies:** React, Styled Components, React Router V5
+- **Links:** [GitHub](https://github.com/yakksiek/blog-prismic-cms), [Live Version](https://yakksiek.github.io/blog-prismic-cms/#/)
+
+### Currency Wallet
+A financial tracking tool to manage historical transactions in multiple currencies. Leverages APIs to fetch historical exchange rates. It features an interactive chart that visualizes the profit or loss for each transaction, offering a comprehensive view of one's investment performance over time.
+
+- **Technologies:** React, Redux, REST API, Custom Hooks, Webpack
+- **Links:** [GitHub](https://github.com/yakksiek/currency-wallet),
+
+### Multi-Page Form
+An advanced form application that provides a multi-page user interface, crafted with Styled-Components for a sleek visual appeal. It includes a custom select component that is navigable via keyboard, enhancing accessibility. The application also has a photo file upload system and real-time form validation.
+
+- **Technologies:** React, Styled Components, File Upload, Webpack
+- **Links:** [GitHub](https://github.com/yakksiek/multistep-form), [Live Version](https://yakksiek.github.io/multistep-form/)
+
+
 ### Find Me Elsewhere 🌍
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yakksiek)
