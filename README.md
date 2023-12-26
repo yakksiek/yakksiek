@@ -17,6 +17,8 @@ I'm an aspiring junior developer with a passion for creating intuitive and dynam
 <img align="left" alt="jest logo" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img align="left" alt="react testing library logo" width="30px" style="padding-right: 10px;" src="https://testing-library.com/img/octopus-64x64.png" alt="An octopus representing the DOM Testing Library Logo">
 
+<br clear="left"/>
+
 ## Find Me Elsewhere 🌍
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yakksiek)
