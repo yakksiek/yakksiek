@@ -15,3 +15,7 @@ I'm an aspiring junior developer with a passion for creating intuitive and dynam
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat&logo=testing-library&logoColor=white)
 
+## Find Me Elsewhere 🌍
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcin-kulbicki)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://www.instagram.com/yourusername](https://www.instagram.com/yakksiek/))
