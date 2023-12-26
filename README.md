@@ -4,7 +4,7 @@ I'm an aspiring junior developer with a passion for creating intuitive and dynam
 
 <hr/>
 
-## Tech Stack
+### Tech Stack
 
 <img align="left" alt="html logo" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="css logo" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -19,7 +19,7 @@ I'm an aspiring junior developer with a passion for creating intuitive and dynam
 
 <br clear="left"/>
 
-## Find Me Elsewhere 🌍
+### Find Me Elsewhere 🌍
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yakksiek)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-kulbicki)
