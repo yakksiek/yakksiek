@@ -19,6 +19,8 @@ I'm an aspiring junior developer with a passion for creating intuitive and dynam
 
 <br clear="left"/>
 
+#
+
 ### Find Me Elsewhere 🌍
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yakksiek)
