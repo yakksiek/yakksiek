@@ -2,7 +2,7 @@
 
 I'm an aspiring junior developer with a passion for creating intuitive and dynamic web experiences. My journey has led me from the fundamentals of language teaching to the exciting challenges of coding in JavaScript and React.
 
-<hr>...</hr>
+<hr/>
 
 ## Tech Stack
 
@@ -16,8 +16,6 @@ I'm an aspiring junior developer with a passion for creating intuitive and dynam
 <img align="left" alt="babel logo" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
 <img align="left" alt="jest logo" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img align="left" alt="react testing library logo" width="30px" style="padding-right: 10px;" src="https://testing-library.com/img/octopus-64x64.png" alt="An octopus representing the DOM Testing Library Logo">
-
-
 
 ## Find Me Elsewhere 🌍
 
