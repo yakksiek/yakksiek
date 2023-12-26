@@ -23,7 +23,7 @@ I'm an aspiring junior developer with a passion for creating intuitive and dynam
 
 #
 
-### Top 3 Projects
+### Top 3 Projects 💻
 
 ### POSTMAG - Blog Site with Prismic CMS
 A minimalistic blogging platform that utilizes Prismic CMS for content management and integration. Designed with a minimalist aesthetic to enhance content readability and user engagement.
@@ -43,6 +43,7 @@ An advanced form application that provides a multi-page user interface, crafted 
 - **Technologies:** React, Styled Components, File Upload, Webpack
 - **Links:** [GitHub](https://github.com/yakksiek/multistep-form), [Live Version](https://yakksiek.github.io/multistep-form/)
 
+#
 
 ### Find Me Elsewhere 🌍
 
