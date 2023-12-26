@@ -2,6 +2,8 @@
 
 I'm an aspiring junior developer with a passion for creating intuitive and dynamic web experiences. My journey has led me from the fundamentals of language teaching to the exciting challenges of coding in JavaScript and React.
 
+---
+
 ## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
