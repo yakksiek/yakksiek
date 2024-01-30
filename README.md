@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hello 👋
 
 I'm an aspiring junior developer with a passion for creating intuitive and dynamic web experiences. My journey has led me from the fundamentals of language teaching to the exciting challenges of coding in JavaScript and React.
 
