@@ -42,7 +42,7 @@ A financial tracking tool to manage historical transactions in multiple currenci
 ### Multi-Page Form
 An advanced form application that provides a multi-page user interface, crafted with Styled-Components for a sleek visual appeal. It includes a custom select component that is navigable via keyboard, enhancing accessibility. The application also has a photo file upload system and real-time form validation.
 
-- **Technologies:** React, Styled Components, File Upload, Webpack
+- **Technologies:** React, TypeScript, Styled Components, File Upload, Webpack
 - **Links:** [GitHub](https://github.com/yakksiek/multistep-form), [Live Version](https://yakksiek.github.io/multistep-form/)
 
 #
