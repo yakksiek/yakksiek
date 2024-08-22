@@ -25,7 +25,13 @@ I'm an aspiring junior developer with a passion for creating intuitive and dynam
 
 #
 
-### Top 3 Projects 💻
+### Top 4 Projects 💻
+
+### TopShop - on-line shop
+A stylish shop with login function. 
+
+- **Technologies:** React, Styled Components, React Router V6, TypeScript, React Query, Supabase (login functionality)
+- **Links:** [GitHub](https://github.com/yakksiek/top-shop), [Live Version](https://top-shop-sooty.vercel.app/women)
 
 ### POSTMAG - Blog Site with Prismic CMS
 A minimalistic blogging platform that utilizes Prismic CMS for content management and integration. Designed with a minimalist aesthetic to enhance content readability and user engagement.
