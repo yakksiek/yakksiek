@@ -25,7 +25,54 @@ Frontend developer specializing in React and TypeScript, building enterprise web
 
 #
 
-### Top 4 Projects 💻
+### Professional Experience 🏢
+
+  ### SMART HCM & LMS — Enterprise HR & Learning Management Platform
+  [hr.smart-it.com](https://hr.smart-it.com/) | smart-it.com
+
+  Sole frontend developer from project inception. Built the entire frontend of an enterprise HCM/LMS
+  portal serving organizations across Eastern Europe.
+
+  - Built and maintained a large-scale SPA with 20+ modules (OKR, recruiting, assessments, tasks,
+  learning, talent management)
+  - Implemented complex UI: virtualized lists, text editors, org charts
+  - Full mobile responsive design across all modules
+  - Internationalization (EN/PL/UA/ES) with i18next
+  - **Tech:** React 18, TypeScript, Redux Toolkit, Styled Components, Webpack, Jest, React Testing
+  Library
+
+  ### Advanced HR Analytics — Custom Power BI Visuals
+  [hr.smart-it.com/hcm/advanced-hr-analytics](https://hr.smart-it.com/hcm/advanced-hr-analytics/) | smart-it.com
+
+  Sole frontend developer. Built 7 custom Power BI visuals for workforce analytics dashboards from
+  scratch.
+
+  - Funnel chart, donut chart, KPI card, user card grid, data table, area chart, dropdown slicer
+  - Designed monorepo architecture with shared component library — reusable hooks, theming,
+  localization, and selection management
+  - Virtual scrolling for dropdown slicer supporting 30,000+ items with search, multi-select, and
+  cross-report filter synchronization
+  - Interactive visualizations with cross-filtering, drill-through and conditional formatting
+  - **Tech:** React 19, TypeScript, D3, Recharts, Styled Components, TanStack Virtual, Power BI
+  Visuals SDK
+
+ ### Price Insights — Pricing Intelligence Portal
+   internal | smart-it.com
+
+  A pricing-intelligence system that lets users track competitor strategies across multi-level
+  product and customer hierarchies. Joined at the project's early stages and helped drive
+  architecture and library decisions.
+
+  - Integrated with backend API across all front-end layers — error handling and loading states
+  - Implemented complex data-driven layouts with TanStack Table and Floating UI
+  - Optimised long lists with react-virtual for performant scrolling
+  - Built drag-and-drop interactions with Atlassian Pragmatic DnD
+  - Real-time data updates via SignalR
+  - **Tech:** React 18, TypeScript, Redux Toolkit, Styled Components, React Hook Form + Zod, TanStack
+   Table, React Virtual, Floating UI, Pragmatic DnD, SignalR, Recharts, Power BI Embedded, React
+  Spring, i18next, Jest
+
+### Top 2 Projects 💻
 
 ### TopShop - on-line shop
 A stylish shop with login function. 
@@ -38,18 +85,6 @@ A minimalistic blogging platform that utilizes Prismic CMS for content managemen
 
 - **Technologies:** React, Styled Components, React Router V5
 - **Links:** [GitHub](https://github.com/yakksiek/blog-prismic-cms), [Live Version](https://yakksiek.github.io/blog-prismic-cms/#/)
-
-### Currency Wallet
-A financial tracking tool to manage historical transactions in multiple currencies. Leverages APIs to fetch historical exchange rates. It features an interactive chart that visualizes the profit or loss for each transaction, offering a comprehensive view of one's investment performance over time.
-
-- **Technologies:** React, Redux, REST API, Custom Hooks, Webpack
-- **Links:** [GitHub](https://github.com/yakksiek/currency-wallet), [Live Version](https://remarkable-cupcake-c5f750.netlify.app)
-
-### Multi-Page Form
-An advanced form application that provides a multi-page user interface, crafted with Styled-Components for a sleek visual appeal. It includes a custom select component that is navigable via keyboard, enhancing accessibility. The application also has a photo file upload system and real-time form validation.
-
-- **Technologies:** React, TypeScript, Styled Components, File Upload, Webpack
-- **Links:** [GitHub](https://github.com/yakksiek/multistep-form), [Live Version](https://yakksiek.github.io/multistep-form/)
 
 #
 
