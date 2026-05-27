@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm an aspiring junior developer with a passion for creating intuitive and dynamic web experiences. My journey has led me from the fundamentals of language teaching to the exciting challenges of coding in JavaScript and React.
+Frontend developer specializing in React and TypeScript, building enterprise web applications with complex state management, real-time data flows, and Azure-powered backends.
 
 <hr/>
 
